@@ -1,4 +1,5 @@
 // incertion sort
+// insertion sort is better than selection sort
 const insertionSort = (arr) => {
     for (let i = 1; i < arr.length; i++) {
         let current = arr[i]
